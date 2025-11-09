@@ -29,7 +29,7 @@ An advanced AI-powered system for detecting and managing solar panel hotspots us
 
 ### Prerequisites
 - Node.js 18+ and npm
-- Python 3.8+
+- Python 3.8-3.12 (Python 3.13+ may require additional setup)
 - Git
 
 ### Automated Setup (Windows)
